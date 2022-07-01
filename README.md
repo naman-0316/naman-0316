@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, Selenium, C++**
 
-- 📫 Reach me at: **panjetanaman@gmail.com**
+- 📫 Reach me at: **panjetanaman@gmail.com** or PES1202102271@pesu.pes.edu
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
