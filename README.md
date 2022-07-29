@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Naman Panjeta.</h1>
-<h3 align="center">I'm highly passionate about coding/tech related stuff</h3><br>
+<h1 align="center">Hey 👋, I'm Naman Panjeta.</h1>
+<h3 align="center">I'm highly passionate about coding/tech related stuff.</h3><br>
 
 - 🌱 I’m currently learning **DSA with C++**
 
 - 💬 Ask me about **Python, Selenium, C++**
 
-- 📫 Reach me at: **panjetanaman@gmail.com** or PES1202102271@pesu.pes.edu
+- 📫 Reach me at: **panjetanaman@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
