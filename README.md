@@ -53,6 +53,13 @@
 <a href=""><img alt="" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" /></a>
+
+<img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naman-0316&theme=github_dark" />
 
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naman-0316&show_icons=true&locale=en&theme=tokyonight" alt="naman-0316" /></p>
