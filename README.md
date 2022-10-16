@@ -1,9 +1,9 @@
-<h1 align="center">Hey 👋, I'm Naman Panjeta.</h1>
+<h1 align="center">Hello 👋, I'm Naman Panjeta.</h1>
 <h3 align="center">I'm highly passionate about coding/tech related stuff.</h3><br>
 
-- 🌱 I’m currently learning **DSA with C++**
+- 🌱 I’m currently learning **DSA with C++ and basic Web dev**
 
-- 💬 Ask me about **Python, Selenium, C++**
+- 💬 Ask me about **Python, Selenium, C++, CP**
 
 - 📫 Reach me at: **panjetanaman@gmail.com**
 
