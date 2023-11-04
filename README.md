@@ -59,9 +59,6 @@
 <a href=""><img alt="" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" /></a>
 
-<img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naman-0316&theme=github_dark" />
+<br>
 
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naman-0316&show_icons=true&locale=en&theme=tokyonight" alt="naman-0316" /></p>
-<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naman-0316&theme=tokyonight" alt="naman-0316" /></p>
