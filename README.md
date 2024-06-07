@@ -1,15 +1,13 @@
 <h1 align="center">Hello 👋, I'm Naman Panjeta.</h1>
 <h3 align="center">A guy who is highly passionate about coding/tech related stuff.</h3><br>
 
-- 🌱 I’m currently learning **DSA with C++ and basic Web dev**
-
-- 💬 Ask me about **Python, Selenium, C++, CP**
+- 🌱 I’m currently learning **DSA with C++ and Web Dev**
 
 - 📫 Reach me at: **panjetanaman@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/naman-panjeta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naman-panjeta" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/naman-panjeta-98b216189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naman-panjeta" height="30" width="40" /></a>
 
 </p>
 
@@ -32,11 +30,8 @@
 <a href=""><img alt="" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Discord.py-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Discord.js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
@@ -47,8 +42,6 @@
 <a href=""><img alt="" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white" /></a>
