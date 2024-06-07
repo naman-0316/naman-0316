@@ -1,7 +1,5 @@
 <h1 align="center">Hello 👋, I'm Naman Panjeta.</h1>
-<h3 align="center">A guy who is highly passionate about coding/tech related stuff.</h3><br>
-
-- 🌱 I’m currently learning **DSA with C++ and Web Dev**
+<h3 align="center">A guy who is passionate about coding/tech related stuff.</h3><br>
 
 - 📫 Reach me at: **panjetanaman@gmail.com**
 
